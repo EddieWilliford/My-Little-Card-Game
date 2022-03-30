@@ -1,9 +1,0 @@
-Logs/
-Library/
-Temp/
-obj/Debug/
-Packages/manifest.json
-Packages/packages-lock.json
-
-My little card game.sln
-Assembly-Csharp.csproj
