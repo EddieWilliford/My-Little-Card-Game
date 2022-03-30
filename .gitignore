@@ -3,3 +3,4 @@ Library/
 Temp/
 obj/Debug/
 Packages/manifest.json
+Packages/packages-lock.json
